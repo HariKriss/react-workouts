@@ -81,7 +81,7 @@ function App() {
           </div>
         ))
       ) : (
-        <p>no users found</p>
+        <p>no users found.</p>
       )}
     </div>
   );
